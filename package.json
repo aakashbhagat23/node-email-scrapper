@@ -1,0 +1,39 @@
+{
+  "name": "node-email-scrapper.js",
+  "version": "1.0.0",
+  "description": "a web scraper in Node.js for lightweight HTML parsing. Since Google blocks automated scraping, we recommend using an official API like the Google custom Search API.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aakashbhagat23/node-email-scrapper.git"
+  },
+  "keywords": [
+    "email",
+    "scrapper",
+    "node",
+    "email",
+    "scrapper",
+    "data",
+    "scrapper",
+    "google",
+    "email",
+    "scrapper"
+  ],
+  "author": "Aakash Bhagat",
+  "license": "MIT License Copyright (c) 2025 Aakash Bhagat",
+  "bugs": {
+    "url": "https://github.com/aakashbhagat23/node-email-scrapper/issues"
+  },
+  "homepage": "https://github.com/aakashbhagat23/node-email-scrapper#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "dotenv": "^16.4.7",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^3.3.2",
+    "puppeteer": "^24.4.0"
+  }
+}
